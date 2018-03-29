@@ -1,0 +1,8 @@
+setup.py
+Coordconv.egg-info/PKG-INFO
+Coordconv.egg-info/SOURCES.txt
+Coordconv.egg-info/dependency_links.txt
+Coordconv.egg-info/entry_points.txt
+Coordconv.egg-info/top_level.txt
+Coordsys/__init__.py
+Coordsys/cli.py

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Coordconv
+Version: 1.0.0
+Summary: Python command line client for conversion between coordinates
+Home-page: https://github.com/amoghj8/CoordSys
+Author: Amogh A Joshi
+Author-email: amoghj8@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: coordinates cli physics numpy cartesian spherical cylindrical
+Platform: UNKNOWN
